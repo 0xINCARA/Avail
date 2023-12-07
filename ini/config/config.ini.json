@@ -1,0 +1,9 @@
+{
+    "$schema": "./schema/config.schema.json",
+    "ProjectLogoPath": "./ini/readme_logo.png",
+    "ProjectTagline": "cool-template-ubuntu-tagline",
+    "GitHubAccount": "armckinney",
+    "DockerHubAccount": "armck",
+    "StackShareAccount": "armck",
+    "CodeCovAccount": "armckinney"
+}
